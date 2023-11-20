@@ -1,0 +1,8 @@
+D:\jvr_pbo\tryout\tryout\bin\Debug\tryout.exe.config
+D:\jvr_pbo\tryout\tryout\bin\Debug\tryout.exe
+D:\jvr_pbo\tryout\tryout\bin\Debug\tryout.pdb
+D:\jvr_pbo\tryout\tryout\obj\Debug\tryout.csproj.AssemblyReference.cache
+D:\jvr_pbo\tryout\tryout\obj\Debug\tryout.csproj.SuggestedBindingRedirects.cache
+D:\jvr_pbo\tryout\tryout\obj\Debug\tryout.csproj.CoreCompileInputs.cache
+D:\jvr_pbo\tryout\tryout\obj\Debug\tryout.exe
+D:\jvr_pbo\tryout\tryout\obj\Debug\tryout.pdb
